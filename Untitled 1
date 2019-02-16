@@ -1,0 +1,7 @@
+Design an application that will process student information for a college 
+database system. Your design will have all the OOP features implemented. 
+It should be able to take user input. Also show the uses of nested class, 
+enum and singleton design pattern in your application. Assume you don't have 
+database yet but you can store data into array or some file operation using 
+BufferReader/FileReader if you want. Use all the key words in java as well as 
+Conditional statement, logical statement and loops. 
